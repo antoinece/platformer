@@ -1,0 +1,106 @@
+﻿  platformer.cpp
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(90,25): warning C4244: '=' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(91,25): warning C4244: '=' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(107,26): warning C4244: '=' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(108,26): warning C4244: '=' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(382,65): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(385,60): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(388,65): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(391,60): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(461,73): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(462,76): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(482,104): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(482,75): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(488,104): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(488,75): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(494,104): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(494,75): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(500,104): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(500,75): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(512,76): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(512,58): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(518,74): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(518,57): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(552,76): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(552,58): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(558,76): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(558,58): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(564,76): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(564,58): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(570,76): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(570,58): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(583,87): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(583,51): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(613,87): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(613,51): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(639,108): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(639,61): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(705,36): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\antoi\C++\sae\exercices\platformer\platformer.cpp(705,31): warning C4305: 'argument' : troncation de 'double' à 'float'
+  tile_map.cpp
+  Génération de code en cours...
+  platformer.vcxproj -> C:\Users\antoi\C++\sae\exercices\platformer\x64\Debug\platformer.exe
